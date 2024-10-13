@@ -1,6 +1,6 @@
 import './App.css';
-import Comp1 from './copmonents/Comp1/Comp1';
-import Comp2 from './copmonents/Comp2/Comp2';
+import Comp1 from './components/Comp1/Comp1';
+import Comp2 from './components/Comp2/Comp2';
 
 function App() {
   return (
